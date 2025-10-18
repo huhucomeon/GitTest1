@@ -12,6 +12,7 @@ public class GitText1Application {
         System.out.println("hello git1");
         System.out.println("hello git2");
         System.out.println("git push commit");
+        System.out.println("push commit");
 
     }
 
