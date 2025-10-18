@@ -10,6 +10,7 @@ public class GitText1Application {
         SpringApplication.run(GitText1Application.class, args);
         System.out.println(("----- selectAll method test ------"));
         System.out.println("hello git1");
+        System.out.println("hello git2");
     }
 
 }
