@@ -11,8 +11,7 @@ public class GitText1Application {
         System.out.println(("----- selectAll method test ------"));
         System.out.println("hello git1");
         System.out.println("hello git2");
-        System.out.println("hot-fix1");
-        System.out.println("master");
+        System.out.println("git push commit");
 
     }
 
