@@ -15,7 +15,7 @@ public class GitText1Application {
         System.out.println("push commit");
         System.out.println("pull commit");
         System.out.println("Git git github gitee gitlab");
-       
+        System.out.println("辟邪剑法真是厉害！");
 
     }
 
