@@ -17,6 +17,7 @@ public class GitText1Application {
         System.out.println("辟邪剑法真是厉害！");
         System.out.println("独孤九剑还需加强！");
         System.out.println("葵花宝典天下无敌！");
+        System.out.println("小样，看我的降龙十八掌！");
 
 
     }
