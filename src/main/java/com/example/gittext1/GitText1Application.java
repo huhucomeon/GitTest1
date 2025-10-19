@@ -18,6 +18,10 @@ public class GitText1Application {
         System.out.println("独孤九剑还需加强！");
         System.out.println("葵花宝典天下无敌！");
         System.out.println("小样，看我的降龙十八掌！");
+        System.out.println("看我张飞的厉害，丈八蛇矛！");
+        System.out.println("看我关羽的厉害，青龙偃月刀！");
+        System.out.println("吹牛，看我邢道荣的厉害：梨花开山斧，哈哈哈！！！");
+
 
 
     }
