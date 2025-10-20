@@ -21,6 +21,7 @@ public class GitText1Application {
         System.out.println("看我张飞的厉害，丈八蛇矛！");
         System.out.println("看我关羽的厉害，青龙偃月刀！");
         System.out.println("吹牛，看我邢道荣的厉害：梨花开山斧，哈哈哈！！！");
+        System.out.println("可惜我这青龙偃月刀斩你这鼠辈的狗头！！！");
 
 
 
